@@ -1,6 +1,6 @@
 {
-  "version": "0.6.5",
-  "url": "https://github.com/ivadev-io/ivadev-io.github.io/releases/download/v0.6.5/VocaPop-0.6.5-win-x64.zip",
-  "sha256": "f1a19023ed1cffe984802eaeb78faba6041f9c303c8c60c228a85d837c73ab8f",
-  "notes": "Gộp tạo bộ và nhập tệp, tự lấy tên file, thêm cột Chủ đề và chế độ học theo chủ đề."
+  "version": "0.6.6",
+  "url": "https://github.com/ivadev-io/ivadev-io.github.io/releases/download/v0.6.6/VocaPop-0.6.6-win-x64.zip",
+  "sha256": "f19096d40861eb476c5786a816510cdce0620427a2de1e7c83362195e4bd1bf50",
+  "notes": "Thao tác nhập bằng menu chuột phải, thư viện gọn hơn, cấu hình từng nội dung và sửa trong suốt/lật bubble."
 }
