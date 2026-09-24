@@ -1,6 +1,6 @@
 {
-  "version": "0.6.6",
-  "url": "https://github.com/ivadev-io/ivadev-io.github.io/releases/download/v0.6.6/VocaPop-0.6.6-win-x64.zip",
-  "sha256": "19096d40861eb476c5786a816510cdce0620427a2de1e7c83362195e4bd1bf50",
-  "notes": "Thao tác nhập bằng menu chuột phải, thư viện gọn hơn, cấu hình từng nội dung và sửa trong suốt/lật bubble."
+  "version": "0.6.7",
+  "url": "https://github.com/ivadev-io/ivadev-io.github.io/releases/download/v0.6.7/VocaPop-0.6.7-win-x64.zip",
+  "sha256": "e2287c3eacde6fa6075e6a77ade4e421000ad16ee98ae9a13068ff2274d9bd3c",
+  "notes": "Chuyển sang nguồn cập nhật riêng với mã kích hoạt một lần và liên kết tải có thời hạn."
 }
